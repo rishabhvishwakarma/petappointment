@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/petappointment/static/css/main.81811898.chunk.css",
+    "main.js": "/petappointment/static/js/main.4981eb8b.chunk.js",
+    "main.js.map": "/petappointment/static/js/main.4981eb8b.chunk.js.map",
+    "runtime-main.js": "/petappointment/static/js/runtime-main.d1579af7.js",
+    "runtime-main.js.map": "/petappointment/static/js/runtime-main.d1579af7.js.map",
+    "static/css/2.ef9168ec.chunk.css": "/petappointment/static/css/2.ef9168ec.chunk.css",
+    "static/js/2.98d70db8.chunk.js": "/petappointment/static/js/2.98d70db8.chunk.js",
+    "static/js/2.98d70db8.chunk.js.map": "/petappointment/static/js/2.98d70db8.chunk.js.map",
+    "static/js/3.012af1b9.chunk.js": "/petappointment/static/js/3.012af1b9.chunk.js",
+    "static/js/3.012af1b9.chunk.js.map": "/petappointment/static/js/3.012af1b9.chunk.js.map",
+    "index.html": "/petappointment/index.html",
+    "static/css/2.ef9168ec.chunk.css.map": "/petappointment/static/css/2.ef9168ec.chunk.css.map",
+    "static/css/main.81811898.chunk.css.map": "/petappointment/static/css/main.81811898.chunk.css.map",
+    "static/js/2.98d70db8.chunk.js.LICENSE.txt": "/petappointment/static/js/2.98d70db8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d1579af7.js",
+    "static/css/2.ef9168ec.chunk.css",
+    "static/js/2.98d70db8.chunk.js",
+    "static/css/main.81811898.chunk.css",
+    "static/js/main.4981eb8b.chunk.js"
+  ]
+}
